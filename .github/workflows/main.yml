@@ -1,0 +1,45 @@
+name: Daily Newsletter
+
+on:
+  schedule:
+    - cron: '5 12 * * *'
+    - cron: '35 12 * * *'
+    - cron: '5 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Send newsletter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+        run: |
+          mkdir -p data
+          set +e
+          python newsletter.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }} 2>&1 | tee data/last_run.log
+          code=${PIPESTATUS[0]}
+          echo "=== exit_code=$code ===" >> data/last_run.log
+          exit $code
+      - name: Save state + log
+        if: always()
+        run: |
+          git config user.name  "newsletter-bot"
+          git config user.email "actions@github.com"
+          git add data/state.json data/last_run.log 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: newsletter state + log [skip ci]"
+            git push || true
+          fi
