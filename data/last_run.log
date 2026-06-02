@@ -1,13 +1,13 @@
-2026-06-01 14:39:23,373 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-01 14:39:23,410 - INFO - Paul Graham: Startup = Growth
-2026-06-01 14:39:23,410 - INFO - Bill Gurley: All Markets Are Not Created Equal
-2026-06-01 14:39:23,410 - INFO - Andrew Chen: The Law of Shitty Clickthroughs
-2026-06-01 14:39:30,840 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-01 14:39:30,871 - INFO - Summarized 'Startup = Growth' (full-text, claude-opus-4-8).
-2026-06-01 14:39:40,011 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-01 14:39:40,012 - INFO - Summarized 'All Markets Are Not Created Equal' (full-text, claude-opus-4-8).
-2026-06-01 14:39:47,760 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-01 14:39:47,761 - INFO - Summarized 'The Law of Shitty Clickthroughs' (full-text, claude-opus-4-8).
-2026-06-01 14:39:48,795 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-01 14:39:48,795 - INFO - Done — emailed 3 essays.
+2026-06-02 16:52:11,760 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-02 16:52:11,792 - INFO - Paul Graham: Do Things that Don't Scale
+2026-06-02 16:52:11,793 - INFO - Bill Gurley: All Revenue is Not Created Equal: The Keys to the 10X Revenue Club
+2026-06-02 16:52:11,793 - INFO - Andrew Chen: Growth Hacker is the new VP Marketing
+2026-06-02 16:52:19,534 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-02 16:52:19,554 - INFO - Summarized 'Do Things that Don't Scale' (full-text, claude-opus-4-8).
+2026-06-02 16:52:27,067 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-02 16:52:27,068 - INFO - Summarized 'All Revenue is Not Created Equal: The Keys to the 10X Revenue Club' (full-text, claude-opus-4-8).
+2026-06-02 16:52:34,439 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-02 16:52:34,440 - INFO - Summarized 'Growth Hacker is the new VP Marketing' (full-text, claude-opus-4-8).
+2026-06-02 16:52:35,586 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-02 16:52:35,587 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===

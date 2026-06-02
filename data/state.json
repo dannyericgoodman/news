@@ -1,14 +1,17 @@
 {
   "sent": {
     "paul_graham": [
-      "https://paulgraham.com/growth.html"
+      "https://paulgraham.com/growth.html",
+      "https://paulgraham.com/ds.html"
     ],
     "bill_gurley": [
-      "https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/"
+      "https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/",
+      "https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/"
     ],
     "andrew_chen": [
-      "https://andrewchen.com/the-law-of-shitty-clickthroughs/"
+      "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
+      "https://andrewchen.com/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/"
     ]
   },
-  "last_sent_date": "2026-06-01"
+  "last_sent_date": "2026-06-02"
 }
