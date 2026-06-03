@@ -1,3 +1,14 @@
-2026-06-02 17:48:45,430 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-02 17:48:45,430 - INFO - Already sent today (2026-06-02) — nothing to do.
+2026-06-03 17:10:21,916 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-03 17:10:21,951 - INFO - Paul Graham: How to Get Startup Ideas
+2026-06-03 17:10:21,951 - INFO - Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula
+2026-06-03 17:10:21,952 - INFO - Andrew Chen: The Next Feature Fallacy
+2026-06-03 17:10:30,200 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-03 17:10:30,224 - INFO - Summarized 'How to Get Startup Ideas' (full-text, claude-opus-4-8).
+2026-06-03 17:10:30,321 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
+2026-06-03 17:10:39,080 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-03 17:10:39,081 - INFO - Summarized 'The Dangerous Seduction of the Lifetime Value (LTV) Formula' (full-text, claude-opus-4-8).
+2026-06-03 17:10:46,071 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-03 17:10:46,072 - INFO - Summarized 'The Next Feature Fallacy' (full-text, claude-opus-4-8).
+2026-06-03 17:10:47,142 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-03 17:10:47,143 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
