@@ -1,3 +1,22 @@
-2026-06-04 16:27:40,255 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-04 16:27:40,255 - INFO - Already sent today (2026-06-04) — nothing to do.
+2026-06-05 15:25:24,031 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-05 15:25:24,064 - INFO - Paul Graham: Black Swan Farming
+2026-06-05 15:25:24,064 - INFO - Bill Gurley: Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth
+2026-06-05 15:25:24,064 - INFO - Andrew Chen: Minimize your Time to Product/Market Fit
+2026-06-05 15:25:26,358 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 <none>"
+2026-06-05 15:25:26,359 - INFO - Retrying request to /v1/messages in 0.404819 seconds
+2026-06-05 15:25:31,864 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 <none>"
+2026-06-05 15:25:31,864 - INFO - Retrying request to /v1/messages in 0.775469 seconds
+2026-06-05 15:25:34,797 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 <none>"
+2026-06-05 15:25:34,798 - WARNING - Model claude-opus-4-8 failed for 'Black Swan Farming': Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011CbkM1dSE3hF88zJedJuHE'}
+/home/runner/work/news/news/newsletter.py:178: DeprecationWarning: The model 'claude-sonnet-4-20250514' is deprecated and will reach end-of-life on June 15th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  resp = client.messages.create(model=model, max_tokens=1024,
+2026-06-05 15:25:41,983 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-05 15:25:42,003 - INFO - Summarized 'Black Swan Farming' (full-text, claude-sonnet-4-20250514).
+2026-06-05 15:25:53,128 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-05 15:25:53,131 - INFO - Summarized 'Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth' (full-text, claude-opus-4-8).
+2026-06-05 15:26:00,510 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-05 15:26:00,511 - INFO - Summarized 'Minimize your Time to Product/Market Fit' (full-text, claude-opus-4-8).
+2026-06-05 15:26:01,439 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-05 15:26:01,440 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
