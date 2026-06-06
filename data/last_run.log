@@ -1,13 +1,3 @@
-2026-06-06 14:04:39,873 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-06 14:04:39,905 - INFO - Paul Graham: How to Convince Investors
-2026-06-06 14:04:39,905 - INFO - Bill Gurley: The Thing I Love Most About Uber
-2026-06-06 14:04:39,905 - INFO - Andrew Chen: Zero to Product/Market Fit
-2026-06-06 14:04:47,599 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-06 14:04:47,620 - INFO - Summarized 'How to Convince Investors' (full-text, claude-opus-4-8).
-2026-06-06 14:04:56,717 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-06 14:04:56,718 - INFO - Summarized 'The Thing I Love Most About Uber' (full-text, claude-opus-4-8).
-2026-06-06 14:05:05,437 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-06 14:05:05,438 - INFO - Summarized 'Zero to Product/Market Fit' (full-text, claude-opus-4-8).
-2026-06-06 14:05:07,114 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-06 14:05:07,115 - INFO - Done — emailed 3 essays.
+2026-06-06 14:17:49,519 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-06 14:17:49,519 - INFO - Already sent today (2026-06-06) — nothing to do.
 === exit_code=0 ===
