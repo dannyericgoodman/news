@@ -1,16 +1,3 @@
-2026-06-07 14:16:51,492 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-07 14:16:51,518 - INFO - Paul Graham: The 18 Mistakes That Kill Startups
-2026-06-07 14:16:51,518 - INFO - Bill Gurley: On the Road to Recap
-2026-06-07 14:16:51,518 - INFO - Andrew Chen: What to do when growth stalls
-2026-06-07 14:16:59,382 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-07 14:16:59,397 - INFO - Summarized 'The 18 Mistakes That Kill Startups' (full-text, claude-opus-4-8).
-2026-06-07 14:16:59,537 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
-2026-06-07 14:16:59,661 - WARNING - GET https://abovethecrowd.com/2016/04/21/on-the-road-to-recap/ -> HTTP 429
-2026-06-07 14:16:59,661 - WARNING - No fetched text for 'On the Road to Recap' — summarizing from knowledge.
-2026-06-07 14:17:07,273 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-07 14:17:07,274 - INFO - Summarized 'On the Road to Recap' (knowledge, claude-opus-4-8).
-2026-06-07 14:17:14,393 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-07 14:17:14,394 - INFO - Summarized 'What to do when growth stalls' (full-text, claude-opus-4-8).
-2026-06-07 14:17:15,916 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-07 14:17:15,916 - INFO - Done — emailed 3 essays.
+2026-06-07 14:30:01,551 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-07 14:30:01,551 - INFO - Already sent today (2026-06-07) — nothing to do.
 === exit_code=0 ===
