@@ -1,3 +1,17 @@
-2026-06-07 14:57:31,132 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-07 14:57:31,132 - INFO - Already sent today (2026-06-07) — nothing to do.
+2026-06-08 16:14:29,191 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-08 16:14:29,226 - INFO - Paul Graham: How to Make Wealth
+2026-06-08 16:14:29,226 - INFO - Bill Gurley: Why Facebook Clearly Belongs in the 10X Revenue Club
+2026-06-08 16:14:29,226 - INFO - Andrew Chen fully read — recycling from the top.
+2026-06-08 16:14:29,226 - INFO - Andrew Chen: The Law of Shitty Clickthroughs
+2026-06-08 16:14:36,455 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-08 16:14:36,479 - INFO - Summarized 'How to Make Wealth' (full-text, claude-opus-4-8).
+2026-06-08 16:14:36,608 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
+2026-06-08 16:14:36,764 - WARNING - GET https://abovethecrowd.com/2012/02/01/why-facebook-clearly-belongs-in-the-10x-revenue-club/ -> HTTP 429
+2026-06-08 16:14:36,765 - WARNING - No fetched text for 'Why Facebook Clearly Belongs in the 10X Revenue Club' — summarizing from knowledge.
+2026-06-08 16:14:44,076 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-08 16:14:44,077 - INFO - Summarized 'Why Facebook Clearly Belongs in the 10X Revenue Club' (knowledge, claude-opus-4-8).
+2026-06-08 16:14:51,022 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-08 16:14:51,023 - INFO - Summarized 'The Law of Shitty Clickthroughs' (full-text, claude-opus-4-8).
+2026-06-08 16:14:52,993 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-08 16:14:52,994 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
