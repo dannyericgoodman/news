@@ -1,3 +1,14 @@
-2026-06-08 16:52:31,242 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-08 16:52:31,242 - INFO - Already sent today (2026-06-08) — nothing to do.
+2026-06-09 15:24:34,464 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-09 15:24:34,497 - INFO - Paul Graham: Relentlessly Resourceful
+2026-06-09 15:24:34,497 - INFO - Bill Gurley fully read — recycling from the top.
+2026-06-09 15:24:34,498 - INFO - Bill Gurley: All Markets Are Not Created Equal
+2026-06-09 15:24:34,498 - INFO - Andrew Chen: Growth Hacker is the new VP Marketing
+2026-06-09 15:24:41,538 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-09 15:24:41,561 - INFO - Summarized 'Relentlessly Resourceful' (full-text, claude-opus-4-8).
+2026-06-09 15:24:50,124 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-09 15:24:50,125 - INFO - Summarized 'All Markets Are Not Created Equal' (full-text, claude-opus-4-8).
+2026-06-09 15:24:57,457 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-09 15:24:57,458 - INFO - Summarized 'Growth Hacker is the new VP Marketing' (full-text, claude-opus-4-8).
+2026-06-09 15:24:59,757 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-09 15:24:59,758 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
