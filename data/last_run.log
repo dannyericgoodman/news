@@ -1,13 +1,3 @@
-2026-06-10 16:02:33,278 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-10 16:02:33,312 - INFO - Paul Graham: Startups in 13 Sentences
-2026-06-10 16:02:33,312 - INFO - Bill Gurley: All Revenue is Not Created Equal: The Keys to the 10X Revenue Club
-2026-06-10 16:02:33,312 - INFO - Andrew Chen: The Next Feature Fallacy
-2026-06-10 16:02:39,915 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-10 16:02:39,935 - INFO - Summarized 'Startups in 13 Sentences' (full-text, claude-opus-4-8).
-2026-06-10 16:02:46,263 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-10 16:02:46,264 - INFO - Summarized 'All Revenue is Not Created Equal: The Keys to the 10X Revenue Club' (full-text, claude-opus-4-8).
-2026-06-10 16:02:53,729 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-10 16:02:53,730 - INFO - Summarized 'The Next Feature Fallacy' (full-text, claude-opus-4-8).
-2026-06-10 16:02:54,915 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-10 16:02:54,916 - INFO - Done — emailed 3 essays.
+2026-06-10 16:23:18,085 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-10 16:23:18,085 - INFO - Already sent today (2026-06-10) — nothing to do.
 === exit_code=0 ===
