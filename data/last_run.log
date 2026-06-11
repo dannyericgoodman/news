@@ -1,3 +1,25 @@
-2026-06-10 16:42:12,944 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-10 16:42:12,944 - INFO - Already sent today (2026-06-10) — nothing to do.
+2026-06-11 16:18:25,538 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-11 16:18:25,572 - INFO - Paul Graham: Default Alive or Default Dead?
+2026-06-11 16:18:25,572 - INFO - Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula
+2026-06-11 16:18:25,572 - INFO - Andrew Chen: New data shows losing 80% of mobile users is normal
+2026-06-11 16:18:26,000 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:26,000 - WARNING - Model claude-opus-4-8 failed for 'Default Alive or Default Dead?': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu2UKbFhXsvkNt39zz'}
+/home/runner/work/news/news/newsletter.py:178: DeprecationWarning: The model 'claude-sonnet-4-20250514' is deprecated and will reach end-of-life on June 15th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  resp = client.messages.create(model=model, max_tokens=1024,
+2026-06-11 16:18:26,104 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:26,105 - WARNING - Model claude-sonnet-4-20250514 failed for 'Default Alive or Default Dead?': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu3Z4E3kt4YixcAgHk'}
+2026-06-11 16:18:26,105 - ERROR - Summary failed for 'Default Alive or Default Dead?': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu3Z4E3kt4YixcAgHk'}
+2026-06-11 16:18:26,570 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:26,571 - WARNING - Model claude-opus-4-8 failed for 'The Dangerous Seduction of the Lifetime Value (LTV) Formula': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu5ZrQ8K2WxT42F1qy'}
+2026-06-11 16:18:26,853 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:26,853 - WARNING - Model claude-sonnet-4-20250514 failed for 'The Dangerous Seduction of the Lifetime Value (LTV) Formula': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu6kJFju7N463wqMoB'}
+2026-06-11 16:18:26,853 - ERROR - Summary failed for 'The Dangerous Seduction of the Lifetime Value (LTV) Formula': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu6kJFju7N463wqMoB'}
+2026-06-11 16:18:27,411 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:27,411 - WARNING - Model claude-opus-4-8 failed for 'New data shows losing 80% of mobile users is normal': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu99uhxxuAsp2sccZs'}
+2026-06-11 16:18:27,531 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-06-11 16:18:27,531 - WARNING - Model claude-sonnet-4-20250514 failed for 'New data shows losing 80% of mobile users is normal': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu9fR9GKdxSHawdGyd'}
+2026-06-11 16:18:27,532 - ERROR - Summary failed for 'New data shows losing 80% of mobile users is normal': Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cbwmu9fR9GKdxSHawdGyd'}
+2026-06-11 16:18:28,908 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-11 16:18:28,909 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
