@@ -1,14 +1,3 @@
-2026-06-12 15:35:04,603 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-12 15:35:04,636 - INFO - Paul Graham: The Anatomy of Determination
-2026-06-12 15:35:04,637 - INFO - Bill Gurley: How to Miss By a Mile: An Alternative Look at Uber's Potential Market Size
-2026-06-12 15:35:04,637 - INFO - Andrew Chen: Minimize your Time to Product/Market Fit
-2026-06-12 15:35:11,274 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-12 15:35:11,293 - INFO - Summarized 'The Anatomy of Determination' (full-text, claude-opus-4-8).
-2026-06-12 15:35:11,425 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
-2026-06-12 15:35:18,716 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-12 15:35:18,717 - INFO - Summarized 'How to Miss By a Mile: An Alternative Look at Uber's Potential Market Size' (full-text, claude-opus-4-8).
-2026-06-12 15:35:25,512 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-12 15:35:25,515 - INFO - Summarized 'Minimize your Time to Product/Market Fit' (full-text, claude-opus-4-8).
-2026-06-12 15:35:26,574 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-12 15:35:26,575 - INFO - Done — emailed 3 essays.
+2026-06-12 15:48:15,365 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-12 15:48:15,365 - INFO - Already sent today (2026-06-12) — nothing to do.
 === exit_code=0 ===
