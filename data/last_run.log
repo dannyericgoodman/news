@@ -1,3 +1,13 @@
-2026-06-12 16:26:17,642 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-12 16:26:17,642 - INFO - Already sent today (2026-06-12) — nothing to do.
+2026-06-13 14:21:14,493 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-13 14:21:14,526 - INFO - Paul Graham: Maker's Schedule, Manager's Schedule
+2026-06-13 14:21:14,526 - INFO - Bill Gurley: Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth
+2026-06-13 14:21:14,526 - INFO - Andrew Chen: Zero to Product/Market Fit
+2026-06-13 14:21:21,714 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 14:21:21,734 - INFO - Summarized 'Maker's Schedule, Manager's Schedule' (full-text, claude-opus-4-8).
+2026-06-13 14:21:29,426 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 14:21:29,427 - INFO - Summarized 'Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth' (full-text, claude-opus-4-8).
+2026-06-13 14:21:41,522 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 14:21:41,523 - INFO - Summarized 'Zero to Product/Market Fit' (full-text, claude-opus-4-8).
+2026-06-13 14:21:42,202 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-13 14:21:42,202 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
