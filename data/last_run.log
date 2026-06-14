@@ -1,14 +1,3 @@
-2026-06-14 14:24:06,043 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-14 14:24:06,077 - INFO - Paul Graham: How to Start a Startup
-2026-06-14 14:24:06,077 - INFO - Bill Gurley: The Thing I Love Most About Uber
-2026-06-14 14:24:06,077 - INFO - Andrew Chen: What to do when growth stalls
-2026-06-14 14:24:12,657 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-14 14:24:12,680 - INFO - Summarized 'How to Start a Startup' (full-text, claude-opus-4-8).
-2026-06-14 14:24:12,778 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
-2026-06-14 14:24:20,720 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-14 14:24:20,721 - INFO - Summarized 'The Thing I Love Most About Uber' (full-text, claude-opus-4-8).
-2026-06-14 14:24:28,516 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-14 14:24:28,517 - INFO - Summarized 'What to do when growth stalls' (full-text, claude-opus-4-8).
-2026-06-14 14:24:30,034 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-14 14:24:30,034 - INFO - Done — emailed 3 essays.
+2026-06-14 14:55:20,931 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-14 14:55:20,931 - INFO - Already sent today (2026-06-14) — nothing to do.
 === exit_code=0 ===
