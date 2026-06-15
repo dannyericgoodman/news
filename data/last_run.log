@@ -1,3 +1,15 @@
-2026-06-14 15:13:49,014 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-14 15:13:49,014 - INFO - Already sent today (2026-06-14) — nothing to do.
+2026-06-15 17:26:02,970 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-15 17:26:03,003 - INFO - Paul Graham: How to Think for Yourself
+2026-06-15 17:26:03,003 - INFO - Bill Gurley: On the Road to Recap
+2026-06-15 17:26:03,003 - INFO - Andrew Chen fully read — recycling from the top.
+2026-06-15 17:26:03,003 - INFO - Andrew Chen: The Law of Shitty Clickthroughs
+2026-06-15 17:26:10,939 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 17:26:10,959 - INFO - Summarized 'How to Think for Yourself' (full-text, claude-opus-4-8).
+2026-06-15 17:26:11,107 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
+2026-06-15 17:26:18,890 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 17:26:18,892 - INFO - Summarized 'On the Road to Recap' (full-text, claude-opus-4-8).
+2026-06-15 17:26:25,451 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 17:26:25,452 - INFO - Summarized 'The Law of Shitty Clickthroughs' (full-text, claude-opus-4-8).
+2026-06-15 17:26:26,180 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-15 17:26:26,181 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
