@@ -1,19 +1,3 @@
-2026-06-16 17:18:33,576 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-16 17:18:33,609 - INFO - Paul Graham fully read — recycling from the top.
-2026-06-16 17:18:33,609 - INFO - Paul Graham: Startup = Growth
-2026-06-16 17:18:33,609 - INFO - Bill Gurley: Why Facebook Clearly Belongs in the 10X Revenue Club
-2026-06-16 17:18:33,609 - INFO - Andrew Chen: Growth Hacker is the new VP Marketing
-2026-06-16 17:18:33,860 - WARNING - GET https://paulgraham.com/growth.html failed: HTTPSConnectionPool(host='paulgraham.com', port=443): Max retries exceeded with url: /growth.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-2026-06-16 17:18:33,860 - WARNING - No fetched text for 'Startup = Growth' — summarizing from knowledge.
-2026-06-16 17:18:40,881 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-16 17:18:40,904 - INFO - Summarized 'Startup = Growth' (knowledge, claude-opus-4-8).
-2026-06-16 17:18:41,029 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
-2026-06-16 17:18:41,195 - WARNING - GET https://abovethecrowd.com/2012/02/01/why-facebook-clearly-belongs-in-the-10x-revenue-club/ -> HTTP 429
-2026-06-16 17:18:41,196 - WARNING - No fetched text for 'Why Facebook Clearly Belongs in the 10X Revenue Club' — summarizing from knowledge.
-2026-06-16 17:18:47,958 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-16 17:18:47,959 - INFO - Summarized 'Why Facebook Clearly Belongs in the 10X Revenue Club' (knowledge, claude-opus-4-8).
-2026-06-16 17:18:55,972 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-16 17:18:55,973 - INFO - Summarized 'Growth Hacker is the new VP Marketing' (full-text, claude-opus-4-8).
-2026-06-16 17:18:57,040 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-16 17:18:57,040 - INFO - Done — emailed 3 essays.
+2026-06-16 17:33:48,149 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-16 17:33:48,149 - INFO - Already sent today (2026-06-16) — nothing to do.
 === exit_code=0 ===
