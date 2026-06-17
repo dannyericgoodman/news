@@ -1,14 +1,3 @@
-2026-06-17 15:59:06,690 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-17 15:59:06,723 - INFO - Paul Graham: Do Things that Don't Scale
-2026-06-17 15:59:06,723 - INFO - Bill Gurley fully read — recycling from the top.
-2026-06-17 15:59:06,723 - INFO - Bill Gurley: All Markets Are Not Created Equal
-2026-06-17 15:59:06,723 - INFO - Andrew Chen: The Next Feature Fallacy
-2026-06-17 15:59:15,348 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-17 15:59:15,367 - INFO - Summarized 'Do Things that Don't Scale' (full-text, claude-opus-4-8).
-2026-06-17 15:59:22,570 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-17 15:59:22,571 - INFO - Summarized 'All Markets Are Not Created Equal' (full-text, claude-opus-4-8).
-2026-06-17 15:59:30,090 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-17 15:59:30,091 - INFO - Summarized 'The Next Feature Fallacy' (full-text, claude-opus-4-8).
-2026-06-17 15:59:30,930 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-17 15:59:30,931 - INFO - Done — emailed 3 essays.
+2026-06-17 16:24:49,685 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-17 16:24:49,685 - INFO - Already sent today (2026-06-17) — nothing to do.
 === exit_code=0 ===
