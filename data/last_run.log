@@ -1,3 +1,13 @@
-2026-06-17 16:42:16,820 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-17 16:42:16,820 - INFO - Already sent today (2026-06-17) — nothing to do.
+2026-06-18 15:49:11,251 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-18 15:49:11,284 - INFO - Paul Graham: How to Get Startup Ideas
+2026-06-18 15:49:11,284 - INFO - Bill Gurley: All Revenue is Not Created Equal: The Keys to the 10X Revenue Club
+2026-06-18 15:49:11,284 - INFO - Andrew Chen: New data shows losing 80% of mobile users is normal
+2026-06-18 15:49:20,091 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-18 15:49:20,112 - INFO - Summarized 'How to Get Startup Ideas' (full-text, claude-opus-4-8).
+2026-06-18 15:49:28,937 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-18 15:49:28,938 - INFO - Summarized 'All Revenue is Not Created Equal: The Keys to the 10X Revenue Club' (full-text, claude-opus-4-8).
+2026-06-18 15:49:37,032 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-18 15:49:37,033 - INFO - Summarized 'New data shows losing 80% of mobile users is normal' (full-text, claude-opus-4-8).
+2026-06-18 15:49:37,774 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-18 15:49:37,774 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
