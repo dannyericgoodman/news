@@ -1,3 +1,13 @@
-2026-06-20 15:07:53,665 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-20 15:07:53,665 - INFO - Already sent today (2026-06-20) — nothing to do.
+2026-06-21 14:30:28,479 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-21 14:30:28,511 - INFO - Paul Graham: How to Convince Investors
+2026-06-21 14:30:28,511 - INFO - Bill Gurley: Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth
+2026-06-21 14:30:28,512 - INFO - Andrew Chen: What to do when growth stalls
+2026-06-21 14:30:46,817 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-21 14:30:46,838 - INFO - Summarized 'How to Convince Investors' (full-text, claude-opus-4-8).
+2026-06-21 14:31:00,765 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-21 14:31:00,766 - INFO - Summarized 'Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth' (full-text, claude-opus-4-8).
+2026-06-21 14:31:13,837 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-21 14:31:13,838 - INFO - Summarized 'What to do when growth stalls' (full-text, claude-opus-4-8).
+2026-06-21 14:31:14,634 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-21 14:31:14,634 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
