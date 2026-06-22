@@ -1,14 +1,3 @@
-2026-06-22 17:10:19,136 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-22 17:10:19,167 - INFO - Paul Graham: The 18 Mistakes That Kill Startups
-2026-06-22 17:10:19,168 - INFO - Bill Gurley: The Thing I Love Most About Uber
-2026-06-22 17:10:19,168 - INFO - Andrew Chen fully read — recycling from the top.
-2026-06-22 17:10:19,168 - INFO - Andrew Chen: The Law of Shitty Clickthroughs
-2026-06-22 17:10:27,300 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-22 17:10:27,319 - INFO - Summarized 'The 18 Mistakes That Kill Startups' (full-text, claude-opus-4-8).
-2026-06-22 17:10:36,721 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-22 17:10:36,722 - INFO - Summarized 'The Thing I Love Most About Uber' (full-text, claude-opus-4-8).
-2026-06-22 17:10:43,327 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-22 17:10:43,328 - INFO - Summarized 'The Law of Shitty Clickthroughs' (full-text, claude-opus-4-8).
-2026-06-22 17:10:44,193 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-22 17:10:44,193 - INFO - Done — emailed 3 essays.
+2026-06-22 17:16:04,450 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-22 17:16:04,450 - INFO - Already sent today (2026-06-22) — nothing to do.
 === exit_code=0 ===
