@@ -1,3 +1,13 @@
-2026-06-22 17:46:24,195 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-22 17:46:24,195 - INFO - Already sent today (2026-06-22) — nothing to do.
+2026-06-23 15:21:00,851 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-23 15:21:00,883 - INFO - Paul Graham: How to Make Wealth
+2026-06-23 15:21:00,883 - INFO - Bill Gurley: On the Road to Recap
+2026-06-23 15:21:00,883 - INFO - Andrew Chen: Growth Hacker is the new VP Marketing
+2026-06-23 15:21:19,762 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-23 15:21:19,784 - INFO - Summarized 'How to Make Wealth' (full-text, claude-opus-4-8).
+2026-06-23 15:21:31,150 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-23 15:21:31,151 - INFO - Summarized 'On the Road to Recap' (full-text, claude-opus-4-8).
+2026-06-23 15:21:40,103 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-23 15:21:40,104 - INFO - Summarized 'Growth Hacker is the new VP Marketing' (full-text, claude-opus-4-8).
+2026-06-23 15:21:41,111 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-23 15:21:41,111 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
