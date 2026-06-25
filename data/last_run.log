@@ -1,15 +1,3 @@
-2026-06-25 14:50:31,495 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-25 14:50:31,528 - INFO - Paul Graham: Startups in 13 Sentences
-2026-06-25 14:50:31,528 - INFO - Bill Gurley fully read — recycling from the top.
-2026-06-25 14:50:31,529 - INFO - Bill Gurley: All Markets Are Not Created Equal
-2026-06-25 14:50:31,529 - INFO - Andrew Chen: New data shows losing 80% of mobile users is normal
-2026-06-25 14:50:38,435 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-25 14:50:38,455 - INFO - Summarized 'Startups in 13 Sentences' (full-text, claude-opus-4-8).
-2026-06-25 14:50:38,603 - WARNING - GET https://abovethecrowd.com/wp-json/wp/v2/posts -> HTTP 429
-2026-06-25 14:50:46,089 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-25 14:50:46,090 - INFO - Summarized 'All Markets Are Not Created Equal' (full-text, claude-opus-4-8).
-2026-06-25 14:50:53,476 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-25 14:50:53,477 - INFO - Summarized 'New data shows losing 80% of mobile users is normal' (full-text, claude-opus-4-8).
-2026-06-25 14:50:54,541 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-25 14:50:54,542 - INFO - Done — emailed 3 essays.
+2026-06-25 15:25:34,976 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-25 15:25:34,976 - INFO - Already sent today (2026-06-25) — nothing to do.
 === exit_code=0 ===
