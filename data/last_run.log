@@ -1,13 +1,3 @@
-2026-06-26 14:43:00,048 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-26 14:43:00,081 - INFO - Paul Graham: Default Alive or Default Dead?
-2026-06-26 14:43:00,082 - INFO - Bill Gurley: All Revenue is Not Created Equal: The Keys to the 10X Revenue Club
-2026-06-26 14:43:00,082 - INFO - Andrew Chen: Minimize your Time to Product/Market Fit
-2026-06-26 14:43:08,821 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-26 14:43:08,845 - INFO - Summarized 'Default Alive or Default Dead?' (full-text, claude-opus-4-8).
-2026-06-26 14:43:20,582 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-26 14:43:20,583 - INFO - Summarized 'All Revenue is Not Created Equal: The Keys to the 10X Revenue Club' (full-text, claude-opus-4-8).
-2026-06-26 14:43:27,425 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2026-06-26 14:43:27,426 - INFO - Summarized 'Minimize your Time to Product/Market Fit' (full-text, claude-opus-4-8).
-2026-06-26 14:43:28,883 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
-2026-06-26 14:43:28,884 - INFO - Done — emailed 3 essays.
+2026-06-26 15:12:52,171 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-26 15:12:52,171 - INFO - Already sent today (2026-06-26) — nothing to do.
 === exit_code=0 ===
