@@ -1,3 +1,13 @@
-2026-06-26 15:29:31,056 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-26 15:29:31,056 - INFO - Already sent today (2026-06-26) — nothing to do.
+2026-06-27 14:03:08,274 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-27 14:03:08,308 - INFO - Paul Graham: The Anatomy of Determination
+2026-06-27 14:03:08,308 - INFO - Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula
+2026-06-27 14:03:08,308 - INFO - Andrew Chen: Zero to Product/Market Fit
+2026-06-27 14:03:14,226 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-27 14:03:14,249 - INFO - Summarized 'The Anatomy of Determination' (full-text, claude-opus-4-8).
+2026-06-27 14:03:22,408 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-27 14:03:22,409 - INFO - Summarized 'The Dangerous Seduction of the Lifetime Value (LTV) Formula' (full-text, claude-opus-4-8).
+2026-06-27 14:03:30,213 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-27 14:03:30,214 - INFO - Summarized 'Zero to Product/Market Fit' (full-text, claude-opus-4-8).
+2026-06-27 14:03:31,742 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-27 14:03:31,742 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
