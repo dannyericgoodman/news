@@ -1,3 +1,14 @@
-2026-06-28 14:53:35,268 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-28 14:53:35,268 - INFO - Already sent today (2026-06-28) — nothing to do.
+2026-06-29 16:06:05,831 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-06-29 16:06:05,863 - INFO - Paul Graham: How to Start a Startup
+2026-06-29 16:06:05,863 - INFO - Bill Gurley: Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth
+2026-06-29 16:06:05,863 - INFO - Andrew Chen fully read — recycling from the top.
+2026-06-29 16:06:05,863 - INFO - Andrew Chen: The Law of Shitty Clickthroughs
+2026-06-29 16:06:12,982 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-29 16:06:13,002 - INFO - Summarized 'How to Start a Startup' (full-text, claude-opus-4-8).
+2026-06-29 16:06:21,598 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-29 16:06:21,599 - INFO - Summarized 'Money Out of Nowhere: How Internet Marketplaces Unlock Economic Wealth' (full-text, claude-opus-4-8).
+2026-06-29 16:06:28,269 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-29 16:06:28,270 - INFO - Summarized 'The Law of Shitty Clickthroughs' (full-text, claude-opus-4-8).
+2026-06-29 16:06:29,286 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-06-29 16:06:29,287 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
