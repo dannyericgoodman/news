@@ -1,3 +1,14 @@
-2026-06-30 15:39:06,462 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
-2026-06-30 15:39:06,463 - INFO - Already sent today (2026-06-30) — nothing to do.
+2026-07-01 14:54:21,917 - INFO - Preflight: ANTHROPIC=SET | GMAIL=SET | RESEND=off | to=danny.eric.goodman@gmail.com
+2026-07-01 14:54:21,950 - INFO - Paul Graham fully read — recycling from the top.
+2026-07-01 14:54:21,951 - INFO - Paul Graham: Startup = Growth
+2026-07-01 14:54:21,951 - INFO - Bill Gurley: On the Road to Recap
+2026-07-01 14:54:21,951 - INFO - Andrew Chen: The Next Feature Fallacy
+2026-07-01 14:54:30,744 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-07-01 14:54:30,768 - INFO - Summarized 'Startup = Growth' (full-text, claude-opus-4-8).
+2026-07-01 14:54:39,367 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-07-01 14:54:39,368 - INFO - Summarized 'On the Road to Recap' (full-text, claude-opus-4-8).
+2026-07-01 14:54:47,690 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-07-01 14:54:47,691 - INFO - Summarized 'The Next Feature Fallacy' (full-text, claude-opus-4-8).
+2026-07-01 14:54:49,153 - INFO - Email sent via Gmail to danny.eric.goodman@gmail.com
+2026-07-01 14:54:49,153 - INFO - Done — emailed 3 essays.
 === exit_code=0 ===
